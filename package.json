@@ -1,0 +1,11 @@
+{
+  "name": "pogorss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "node-html-parser": "^7.1.0",
+    "rss": "^1.2.2"
+  }
+}
